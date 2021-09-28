@@ -1,4 +1,5 @@
-﻿using LinkedListsTraining.ReverseLinkedList;
+﻿using LinkedListsTraining;
+using LinkedListsTraining.ReverseLinkedList;
 using LinkedListTraining_tests.Helpers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
@@ -23,6 +24,18 @@ namespace LinkedListTraining_tests
             var actual = sut.ReverseList(input);
             //Assert
             AssertLinkedLists.NodesHaveEqualValue(expected, actual);
+        }
+
+        [TestMethod]
+        public void ReverseList_Empty()
+        {
+            //Arrange
+            ListNode sut = null;
+            var reversor = new Solution();
+            //Act
+            var actual = reversor.ReverseList(sut);
+            //Assert
+            Assert.IsNull(actual);
         }
     }
 }
