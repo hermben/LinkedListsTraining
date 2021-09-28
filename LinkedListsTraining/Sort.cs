@@ -24,15 +24,41 @@ namespace LinkedListsTraining
             }
         }
 
+
         public static void Selection(int[] arr)
         {
-            throw new NotImplementedException();
+            for (int i = 0; i < arr.Length - 1; i++)
+            {
+                for (int j = i + 1; j < arr.Length; j++)
+                {
+                    if (arr[j] < arr[i])
+                    {
+                        var temp = arr[j];
+                        arr[j] = arr[i];
+                        arr[i] = temp;
+                    }
+                }
+            }
+
         }
+
 
         public static void Insertion(int[] arr)
         {
-            throw new NotImplementedException();
+            for (int i = 1; i < arr.Length; i++)
+            {
+                var temp = arr[i];
+                var j = i - 1;
+
+                while (j >= 0 && arr[j] > temp)
+                {
+                    arr[j + 1] = arr[j];
+                    j--;
+                }
+                arr[j + 1] = temp;
+            }
         }
+
 
         public static void MergeSort(int[] arr)
         {
