@@ -22,12 +22,8 @@ namespace LinkedListsTraining.AddTwoNumbers
             // while both lists exist
             while (l1 != null || l2 != null)
             {
-                // Calculate value of next digit in resultant
-                // list. The next digit is sum of following
-                // things (i) Carry (ii) Next digit of first
-                // list (if there is a next digit) (ii) Next
-                // digit of second list (if there is a next
-                // digit)
+               
+               
                 sum = carry + (l1 != null ? l1.val : 0)
                       + (l2 != null ? l2.val : 0);
 

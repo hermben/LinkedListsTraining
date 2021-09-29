@@ -241,8 +241,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\herma\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\hebenao\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -250,16 +249,12 @@
       "projectUniqueName": "D:\\code\\Project 5\\sorting-arrays-linked-lists-main\\sorting-arrays-linked-lists-main\\LinkedListsTraining\\LinkedListsTraining\\LinkedListsTraining.csproj",
       "projectName": "LinkedListsTraining",
       "projectPath": "D:\\code\\Project 5\\sorting-arrays-linked-lists-main\\sorting-arrays-linked-lists-main\\LinkedListsTraining\\LinkedListsTraining\\LinkedListsTraining.csproj",
-      "packagesPath": "C:\\Users\\herma\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\hebenao\\.nuget\\packages\\",
       "outputPath": "D:\\code\\Project 5\\sorting-arrays-linked-lists-main\\sorting-arrays-linked-lists-main\\LinkedListsTraining\\LinkedListsTraining\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\herma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\hebenao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -304,7 +299,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

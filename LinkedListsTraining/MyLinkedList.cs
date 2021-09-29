@@ -45,7 +45,8 @@ namespace LinkedListsTraining
             return -1;
         }
 
-        /** Add a node of val val before the first element of the linked list. After the insertion, the new node will be the first node of the linked list. */
+        // Add a node of val before the first element of the linked list. After the insertion,
+        // the new node will be the first node of the linked list. 
         public void AddAtHead(int val)
         {
             // initiate new node and assign val
@@ -57,7 +58,7 @@ namespace LinkedListsTraining
             Head = newNode;
         }
 
-        /** Append a node of val val to the last element of the linked list. */
+        /** Append a node of val to the last element of the linked list. */
         public void AddAtTail(int val)
         {
 

@@ -5,7 +5,6 @@ D:\code\Project 5\sorting-arrays-linked-lists-main\sorting-arrays-linked-lists-m
 D:\code\Project 5\sorting-arrays-linked-lists-main\sorting-arrays-linked-lists-main\LinkedListsTraining\LinkedListsTraining\bin\Debug\net5.0\LinkedListsTraining.dll
 D:\code\Project 5\sorting-arrays-linked-lists-main\sorting-arrays-linked-lists-main\LinkedListsTraining\LinkedListsTraining\bin\Debug\net5.0\ref\LinkedListsTraining.dll
 D:\code\Project 5\sorting-arrays-linked-lists-main\sorting-arrays-linked-lists-main\LinkedListsTraining\LinkedListsTraining\bin\Debug\net5.0\LinkedListsTraining.pdb
-D:\code\Project 5\sorting-arrays-linked-lists-main\sorting-arrays-linked-lists-main\LinkedListsTraining\LinkedListsTraining\obj\Debug\net5.0\LinkedListsTraining.csproj.AssemblyReference.cache
 D:\code\Project 5\sorting-arrays-linked-lists-main\sorting-arrays-linked-lists-main\LinkedListsTraining\LinkedListsTraining\obj\Debug\net5.0\LinkedListsTraining.GeneratedMSBuildEditorConfig.editorconfig
 D:\code\Project 5\sorting-arrays-linked-lists-main\sorting-arrays-linked-lists-main\LinkedListsTraining\LinkedListsTraining\obj\Debug\net5.0\LinkedListsTraining.AssemblyInfoInputs.cache
 D:\code\Project 5\sorting-arrays-linked-lists-main\sorting-arrays-linked-lists-main\LinkedListsTraining\LinkedListsTraining\obj\Debug\net5.0\LinkedListsTraining.AssemblyInfo.cs
